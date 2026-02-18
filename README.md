@@ -1,6 +1,5 @@
 # 💫 About Me:
 Director of Engineering Operations at Safe Security, leading DevOps, Platform, SRE, and CloudOps initiatives along with key Business Operations projects. AWS Solutions Architect certified, with primary focus on building and operating scalable, reliable systems on AWS.
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning how AI can help increase productivity for Developers
 - 👯 I’m looking to collaborate on creating AI Agents that can help increase productivity
 - 💬 Ask me about Cloud Infrastructure, Scaling, SRE best practices, etc
